@@ -1,0 +1,522 @@
+{
+    "2023-02-26": [
+        {
+            "number": 1,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 101,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 140,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 130,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 133,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 196,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 112,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 183,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 110,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 113,
+            "availability": true
+        }
+    ],
+    "2023-02-27": [
+        {
+            "number": 1,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 101,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 140,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 130,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 133,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 196,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 112,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 183,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 110,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 113,
+            "availability": true
+        }
+    ],
+    "2023-02-28": [
+        {
+            "number": 1,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 101,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 140,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 130,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 133,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 196,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 112,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 183,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 110,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 113,
+            "availability": true
+        }
+    ],
+    "2023-03-01": [
+        {
+            "number": 1,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 101,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 140,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 130,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 133,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 196,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 112,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 183,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 110,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 113,
+            "availability": true
+        }
+    ],
+    "2023-03-02": [
+        {
+            "number": 1,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 101,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 140,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 130,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 133,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 196,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 112,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 183,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 110,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 113,
+            "availability": true
+        }
+    ],
+    "2023-03-03": [
+        {
+            "number": 1,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 101,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 140,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 130,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 133,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 196,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 112,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 183,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 110,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 113,
+            "availability": true
+        }
+    ],
+    "2023-03-04": [
+        {
+            "number": 1,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 101,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 140,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 130,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 133,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 196,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 112,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 183,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 110,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 113,
+            "availability": true
+        }
+    ],
+    "2023-03-05": [
+        {
+            "number": 1,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 101,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 140,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 130,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 133,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 196,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 112,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 183,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 110,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 113,
+            "availability": true
+        }
+    ],
+    "2023-03-06": [
+        {
+            "number": 1,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 101,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 140,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 130,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 133,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 196,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 112,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 183,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 110,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 113,
+            "availability": true
+        }
+    ],
+    "2023-03-07": [
+        {
+            "number": 1,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 101,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 140,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 130,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 133,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 196,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 112,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 183,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 110,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 113,
+            "availability": true
+        }
+    ]
+}

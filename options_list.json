@@ -1,0 +1,30 @@
+{
+    "Stay": 1,
+    "Eat": [
+      {
+        "name": "Potato",
+        "price": 1.50
+      },
+      {
+        "name": "Eggs",
+        "price": 1.0
+      },
+      {
+        "name": "Fries",
+        "price": 2.0
+      },
+      {
+        "name": "Rice",
+        "price": 1.25
+      }
+    ],
+    "Ask to clean": false,
+    "Speak to Boss": [
+      {
+        "Ask to fire": "None",
+        "Play X0": true
+      }
+    ],
+    "Leave": "True",
+    "Pay": "True"
+}
