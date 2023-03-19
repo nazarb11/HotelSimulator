@@ -21,10 +21,12 @@ def setup():
 
 if __name__ == '__main__':
     ctrl, view = setup()
-    view.print_greeting()
-    view.print_options_list()
-    choice = int(input('Choose an option: '))
-    if choice == 1:
-        days = int(input('Choose a number of days to stay: '))
-        ctrl.choice_stay(days)
+    exit_opt = False
+    while not exit_opt:
+        view.print_greeting()
+        view.print_options_list()
+        choice = int(input('Choose an option: '))
+        if choice == 1:
+            days = int(input('Choose a number of days to stay: '))
+            ctrl.choice_stay(days)
 
