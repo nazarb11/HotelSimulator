@@ -11,7 +11,6 @@ class Hotel:
         for room in rooms:
             if room['number'] == room_number:
                 room['availability'] = False
-                self.update_rooms_schedule(rooms, date)
                 break
 
     def check_out_room(self, room_number, date):

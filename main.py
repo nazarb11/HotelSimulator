@@ -30,3 +30,5 @@ if __name__ == '__main__':
             days = int(input('Choose a number of days to stay: '))
             ctrl.choice_stay(days)
 
+        print('\n\n')
+

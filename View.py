@@ -3,7 +3,10 @@ import json
 
 class View:
     def __init__(self, greeting_message=None):
-        self.greeting_message = greeting_message if greeting_message else 'Hotel Program'
+        self.greeting_message = str('####################################################\n' +
+                                    greeting_message +
+                                    '\n####################################################') if greeting_message \
+            else 'Hotel Program'
         self.choice = None
         self.options_list = None
         with open('options_list.json', 'r') as options_json:

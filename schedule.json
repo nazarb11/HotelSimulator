@@ -106,416 +106,520 @@
     "2023-03-21": [
         {
             "number": 1,
-            "price": 114,
+            "price": 165,
             "availability": true
         },
         {
             "number": 2,
-            "price": 151,
+            "price": 157,
             "availability": true
         },
         {
             "number": 3,
-            "price": 175,
+            "price": 197,
             "availability": true
         },
         {
             "number": 4,
-            "price": 154,
+            "price": 176,
             "availability": true
         },
         {
             "number": 5,
-            "price": 171,
+            "price": 185,
             "availability": true
         },
         {
             "number": 6,
-            "price": 136,
+            "price": 122,
             "availability": true
         },
         {
             "number": 7,
-            "price": 170,
+            "price": 134,
             "availability": true
         },
         {
             "number": 8,
-            "price": 169,
+            "price": 100,
             "availability": true
         },
         {
             "number": 9,
-            "price": 111,
+            "price": 109,
             "availability": true
         },
         {
             "number": 10,
-            "price": 141,
+            "price": 130,
             "availability": true
         }
     ],
     "2023-03-22": [
         {
             "number": 1,
-            "price": 114,
+            "price": 143,
             "availability": true
         },
         {
             "number": 2,
-            "price": 151,
+            "price": 179,
             "availability": true
         },
         {
             "number": 3,
-            "price": 175,
+            "price": 200,
             "availability": true
         },
         {
             "number": 4,
-            "price": 154,
+            "price": 159,
             "availability": true
         },
         {
             "number": 5,
-            "price": 171,
+            "price": 108,
             "availability": true
         },
         {
             "number": 6,
-            "price": 136,
+            "price": 126,
             "availability": true
         },
         {
             "number": 7,
-            "price": 170,
+            "price": 143,
             "availability": true
         },
         {
             "number": 8,
-            "price": 169,
+            "price": 144,
             "availability": true
         },
         {
             "number": 9,
-            "price": 111,
+            "price": 110,
             "availability": true
         },
         {
             "number": 10,
-            "price": 141,
+            "price": 198,
             "availability": true
         }
     ],
     "2023-03-23": [
         {
             "number": 1,
-            "price": 114,
+            "price": 133,
             "availability": true
         },
         {
             "number": 2,
-            "price": 151,
-            "availability": true
-        },
-        {
-            "number": 3,
-            "price": 175,
-            "availability": true
-        },
-        {
-            "number": 4,
             "price": 154,
             "availability": true
         },
         {
+            "number": 3,
+            "price": 188,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 156,
+            "availability": true
+        },
+        {
             "number": 5,
-            "price": 171,
+            "price": 142,
             "availability": true
         },
         {
             "number": 6,
-            "price": 136,
+            "price": 120,
             "availability": true
         },
         {
             "number": 7,
-            "price": 170,
+            "price": 126,
             "availability": true
         },
         {
             "number": 8,
-            "price": 169,
+            "price": 117,
             "availability": true
         },
         {
             "number": 9,
-            "price": 111,
+            "price": 186,
             "availability": true
         },
         {
             "number": 10,
-            "price": 141,
+            "price": 107,
             "availability": true
         }
     ],
     "2023-03-24": [
         {
             "number": 1,
-            "price": 114,
+            "price": 113,
             "availability": true
         },
         {
             "number": 2,
-            "price": 151,
+            "price": 166,
             "availability": true
         },
         {
             "number": 3,
-            "price": 175,
+            "price": 189,
             "availability": true
         },
         {
             "number": 4,
-            "price": 154,
+            "price": 197,
             "availability": true
         },
         {
             "number": 5,
-            "price": 171,
+            "price": 189,
             "availability": true
         },
         {
             "number": 6,
-            "price": 136,
-            "availability": true
-        },
-        {
-            "number": 7,
             "price": 170,
             "availability": true
         },
         {
+            "number": 7,
+            "price": 151,
+            "availability": true
+        },
+        {
             "number": 8,
-            "price": 169,
+            "price": 146,
             "availability": true
         },
         {
             "number": 9,
-            "price": 111,
+            "price": 123,
             "availability": true
         },
         {
             "number": 10,
-            "price": 141,
+            "price": 102,
             "availability": true
         }
     ],
     "2023-03-25": [
         {
             "number": 1,
-            "price": 114,
+            "price": 108,
             "availability": true
         },
         {
             "number": 2,
-            "price": 151,
+            "price": 189,
             "availability": true
         },
         {
             "number": 3,
-            "price": 175,
+            "price": 195,
             "availability": true
         },
         {
             "number": 4,
-            "price": 154,
+            "price": 140,
             "availability": true
         },
         {
             "number": 5,
-            "price": 171,
+            "price": 175,
             "availability": true
         },
         {
             "number": 6,
-            "price": 136,
+            "price": 176,
             "availability": true
         },
         {
             "number": 7,
-            "price": 170,
+            "price": 146,
             "availability": true
         },
         {
             "number": 8,
-            "price": 169,
+            "price": 192,
             "availability": true
         },
         {
             "number": 9,
-            "price": 111,
+            "price": 157,
             "availability": true
         },
         {
             "number": 10,
-            "price": 141,
+            "price": 155,
             "availability": true
         }
     ],
     "2023-03-26": [
         {
             "number": 1,
-            "price": 114,
+            "price": 183,
             "availability": true
         },
         {
             "number": 2,
-            "price": 151,
+            "price": 164,
             "availability": true
         },
         {
             "number": 3,
-            "price": 175,
+            "price": 153,
             "availability": true
         },
         {
             "number": 4,
-            "price": 154,
+            "price": 166,
             "availability": true
         },
         {
             "number": 5,
-            "price": 171,
+            "price": 150,
             "availability": true
         },
         {
             "number": 6,
-            "price": 136,
+            "price": 143,
             "availability": true
         },
         {
             "number": 7,
-            "price": 170,
+            "price": 135,
             "availability": true
         },
         {
             "number": 8,
-            "price": 169,
+            "price": 154,
             "availability": true
         },
         {
             "number": 9,
-            "price": 111,
+            "price": 146,
             "availability": true
         },
         {
             "number": 10,
-            "price": 141,
+            "price": 127,
             "availability": true
         }
     ],
     "2023-03-27": [
         {
             "number": 1,
-            "price": 114,
+            "price": 139,
             "availability": true
         },
         {
             "number": 2,
-            "price": 151,
+            "price": 124,
             "availability": true
         },
         {
             "number": 3,
-            "price": 175,
+            "price": 143,
             "availability": true
         },
         {
             "number": 4,
-            "price": 154,
+            "price": 192,
             "availability": true
         },
         {
             "number": 5,
-            "price": 171,
+            "price": 131,
             "availability": true
         },
         {
             "number": 6,
-            "price": 136,
+            "price": 197,
             "availability": true
         },
         {
             "number": 7,
-            "price": 170,
+            "price": 174,
             "availability": true
         },
         {
             "number": 8,
-            "price": 169,
+            "price": 166,
             "availability": true
         },
         {
             "number": 9,
-            "price": 111,
+            "price": 128,
             "availability": true
         },
         {
             "number": 10,
-            "price": 141,
+            "price": 109,
             "availability": true
         }
     ],
     "2023-03-28": [
         {
             "number": 1,
-            "price": 114,
+            "price": 131,
             "availability": true
         },
         {
             "number": 2,
-            "price": 151,
+            "price": 114,
             "availability": true
         },
         {
             "number": 3,
-            "price": 175,
+            "price": 140,
             "availability": true
         },
         {
             "number": 4,
-            "price": 154,
+            "price": 137,
             "availability": true
         },
         {
             "number": 5,
-            "price": 171,
+            "price": 186,
             "availability": true
         },
         {
             "number": 6,
-            "price": 136,
+            "price": 171,
             "availability": true
         },
         {
             "number": 7,
-            "price": 170,
+            "price": 155,
             "availability": true
         },
         {
             "number": 8,
-            "price": 169,
+            "price": 182,
             "availability": true
         },
         {
             "number": 9,
-            "price": 111,
+            "price": 102,
             "availability": true
         },
         {
             "number": 10,
-            "price": 141,
+            "price": 130,
+            "availability": true
+        }
+    ],
+    "2023-03-29": [
+        {
+            "number": 1,
+            "price": 153,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 168,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 176,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 190,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 118,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 150,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 105,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 189,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 164,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 130,
+            "availability": true
+        }
+    ],
+    "2023-03-30": [
+        {
+            "number": 1,
+            "price": 108,
+            "availability": true
+        },
+        {
+            "number": 2,
+            "price": 161,
+            "availability": true
+        },
+        {
+            "number": 3,
+            "price": 160,
+            "availability": true
+        },
+        {
+            "number": 4,
+            "price": 176,
+            "availability": true
+        },
+        {
+            "number": 5,
+            "price": 173,
+            "availability": true
+        },
+        {
+            "number": 6,
+            "price": 147,
+            "availability": true
+        },
+        {
+            "number": 7,
+            "price": 155,
+            "availability": true
+        },
+        {
+            "number": 8,
+            "price": 117,
+            "availability": true
+        },
+        {
+            "number": 9,
+            "price": 170,
+            "availability": true
+        },
+        {
+            "number": 10,
+            "price": 161,
             "availability": true
         }
     ]
