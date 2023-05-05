@@ -1,6 +1,5 @@
 import random
 import datetime
-from copy import copy
 
 
 class Receptionist:
@@ -61,30 +60,24 @@ class Receptionist:
             if room_number == -1:
                 for i in range(0, 100):
                     number = all_rooms[random.randint(0, len(all_rooms) - 1)]
-                    try:
-                        if not self.__get_room(rooms, number)['availability']:
-                            all_rooms.remove(number)
-                            if len(all_rooms) == 0:
-                                print('No rooms available for selected amount of days')
-                                return -1
-                        else:
-                            room_number = number
-                            day = day + 1
-                            break
-                    except IndexError:
-                        print('Error')
-            else:
-                try:
-                    if not self.__get_room(rooms, room_number)['availability']:
-                        all_rooms.remove(room_number)
+                    if not self.__get_room(rooms, number)['availability']:
+                        all_rooms.remove(number)
                         if len(all_rooms) == 0:
                             print('No rooms available for selected amount of days')
                             return -1
-                        room_number = -1
-                        day = 0
                     else:
+                        room_number = number
                         day = day + 1
-                except IndexError:
-                    print('Error')
+                        break
+            else:
+                if not self.__get_room(rooms, room_number)['availability']:
+                    all_rooms.remove(room_number)
+                    if len(all_rooms) == 0:
+                        print('No rooms available for selected amount of days')
+                        return -1
+                    room_number = -1
+                    day = 0
+                else:
+                    day = day + 1
 
         return room_number
