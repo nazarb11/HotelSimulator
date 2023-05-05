@@ -27,8 +27,13 @@ if __name__ == '__main__':
         view.print_options_list()
         choice = int(input('Choose an option: '))
         if choice == 1:
+            start_date = input("enter the start date")
+
             days = int(input('Choose a number of days to stay: '))
-            ctrl.choice_stay(days)
+            new_date = datetime.datetime.strptime(start_date, "%Y-%m-%d")
+            ctrl.choice_stay(days, new_date.date())
+
+        if choice == 4:
+            exit(0)
 
         print('\n\n')
-
