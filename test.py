@@ -89,6 +89,13 @@ print(f'{new1["name"]}, {new1["age"]}')
 #
 """
 
-new= "naz test "
+#1 small code to find date and time
+import datetime
+now = datetime.datetime.now()
+print ("Current date and time : ")
+print (now.strftime("%Y-%m-%d %H:%M:%S"))
 
 
+#2 code to rewrite program in what date the exam will happen
+exam_st_date = (11,12,2014)
+print( "The examination will start from : %i / %i / %i"%exam_st_date)
