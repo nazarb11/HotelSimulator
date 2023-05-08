@@ -99,3 +99,6 @@ print (now.strftime("%Y-%m-%d %H:%M:%S"))
 #2 code to rewrite program in what date the exam will happen
 exam_st_date = (11,12,2014)
 print( "The examination will start from : %i / %i / %i"%exam_st_date)
+
+
+#trying to save changes on laptop ...
